@@ -1,0 +1,4 @@
+secrets.txt
+#  This is a comment
+# Wild Cards Example Ignore all file withe that extension
+*.docx
